@@ -1,0 +1,4 @@
+INFO:root:train accuracy: 0.9178094084656222
+INFO:root:train roc-auc: 0.8363986722192098
+INFO:root:test accuracy: 0.9149361022364217
+INFO:root:test roc-auc: 0.8274783996258842
